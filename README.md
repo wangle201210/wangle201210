@@ -6,24 +6,24 @@
 
 # 个人信息
 
- - 王厚伟/男/1995
- - 本科/四川农业大学
+ - 王厚伟/男/25岁
+ - 本科/四川农业大学（211）
  - 工作年限：3年+
  - 技术博客：https://learnku.com/blog/Iwanna (以前自己的blog由于服务器原因已关闭)
  - Github：https://github.com/wangle201210
-
  - 期望职位：php全栈开发（最好公司是在php转go）
  - 期望薪资：10~15k，看工作性质
  - 期望城市：成都，其他城市如果福利好，也可以考虑
+ - 工作状态：在职，考虑机会
 
 # 个人优势
  - 熟练使用php，laravel框架，Linux系统，MySQL数据库，git协同开发
- - 熟悉vue，已在多个项目上使用过vue-element框架
+ - 熟练使用vue，已在多个项目上使用过vue-element框架
  - 能使用golang开发实用工具，
  参与维护开源项目[beego/bee]( https://github.com/beego/bee "beego/bee")
  以及[beego官网]( http://go.beego.top "beego官网")开发(开发中)
  - 了解服务器配置，有自己服务器（linux）
- - 会用docker
+ - 会使用docker
  - 掌握PS、AI等软件
  - 希望找一个php转go的公司一起进步
 # 工作经历
@@ -67,16 +67,6 @@
 
 ## 知行网络科技 （2016年9月 ~ 2018年5月）
 
-### 学校大部分院网维护
-维护及制作学校院网行政部门网站等20+个(含四川农业大学和四川师范大学部分网站)  
-以下只举部分案列
-1. [四川农业大学官网](https://www.sicau.edu.cn) 内容维护(界面由另外一个同事负责开发)  
-1. [四川农业大学食品学院院网](https://lixueyuan.sicau.edu.cn) 网站制作及后期维护
-1. [四川农业大学招生就业处](https://zjc.sicau.edu.cn) 网站制作及后期维护
-1. [四川农业大学宣传统战部](https://xtb.sicau.edu.cn) 网站制作及后期维护
-1. [四川师范大学信息公开网](http://xb.sicnu.edu.cn/p/31) 网站维护   
-... 
-
 ### 心田花开教务系统开发 
 技术栈：laravel + vue  
 项目正常上线并运营（涉及城市12座，教师人数1000+）
@@ -92,14 +82,24 @@
  - 主要开发人员
  - 主要功能
  > 此处只列出我负责的部分功能:  
- 包括学生个人信息、学生可选寝室床位、学生报道情况实时统计图表、按一定逻辑给学生分班
+ 包括学生个人信息、学生可选寝室床位、按一定逻辑给学生分班、学生报道情况实时统计图表
+
+### 学校大部分院网维护
+维护及制作学校院网行政部门网站等20+个(含四川农业大学和四川师范大学部分网站)  
+以下只举部分案列
+1. [四川农业大学官网](https://www.sicau.edu.cn) 内容维护(界面由另外一个同事负责开发)  
+1. [四川农业大学食品学院院网](https://lixueyuan.sicau.edu.cn) 网站制作及后期维护
+1. [四川农业大学招生就业处](https://zjc.sicau.edu.cn) 网站制作及后期维护
+1. [四川农业大学宣传统战部](https://xtb.sicau.edu.cn) 网站制作及后期维护
+1. [四川师范大学信息公开网](http://xb.sicnu.edu.cn/p/31) 网站维护   
+... 
 
 ## 开源项目
 1. [beego/bee](https://github.com/beego/bee)  
 根据项目负责人的需求添加部分功能
 1. [beego官网](http://go.beego.top)  
 全栈开发核心人员[team](http://go.beego.top/team/)   
-go + beego + vue + nuxt + element
+技术栈：go + beego + vue + nuxt + element
 1. [小工具](https://github.com/wangle201210/tools)  
 自己用go写的小工具[线上地址](http://tools.iwangle.me/)  
 含：仿站小工具、个人所得税计算、身份证所在地查询等功能
