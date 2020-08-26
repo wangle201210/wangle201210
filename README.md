@@ -11,7 +11,7 @@
  - 工作年限：3年+
  - 技术博客：https://learnku.com/blog/Iwanna (以前自己的blog由于服务器原因已关闭)
  - Github：https://github.com/wangle201210
- - 期望职位：php全栈开发（最好公司是在php转go）
+ - 期望职位：php全栈开发｜go全栈开发（最好公司是在php转go）
  - 期望薪资：10~15k，看工作性质
  - 期望城市：成都，其他城市如果福利好，也可以考虑
  - 工作状态：在职，考虑机会
@@ -98,7 +98,7 @@
 1. [beego/bee](https://github.com/beego/bee)  
 根据项目负责人的需求添加部分功能
 1. [beego官网](http://go.beego.top)  
-全栈开发核心人员[team](http://go.beego.top/team/)   
+全栈开发核心人员[team](http://go.beego.top/team/)，开发中预计9月上线   
 技术栈：go + beego + vue + nuxt + element
 1. [小工具](https://github.com/wangle201210/tools)  
 自己用go写的小工具[线上地址](http://tools.iwangle.me/)  
