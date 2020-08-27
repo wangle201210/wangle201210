@@ -19,9 +19,11 @@
 # 个人优势
  - 熟练使用php，laravel框架，Linux系统，MySQL数据库，git协同开发
  - 熟练使用vue，已在多个项目上使用过vue-element框架
- - 能使用golang开发实用工具，
+ - 掌握golang，熟悉beego框架，能使用go开发具体[项目](https://github.com/wangle201210/tools)，
  参与维护开源项目[beego/bee]( https://github.com/beego/bee "beego/bee")
  以及[beego官网]( http://go.beego.top "beego官网")开发(开发中)
+ - 阅读过laravel框架，beego框架，bee工具部分底层代码（beego，bee均有被合并的pr）
+ - 了解WebSocket协议并写过[im系统](https://github.com/wangle201210/im)
  - 了解服务器配置，有自己服务器（linux）
  - 会使用docker
  - 掌握PS、AI等软件
