@@ -11,7 +11,7 @@
  - 工作年限：3年+
  - 技术博客：https://learnku.com/blog/Iwanna (以前自己的blog由于服务器原因已关闭)
  - Github：https://github.com/wangle201210
- - 期望职位：go全栈开发 | php全栈开发（最好公司是在php转go）
+ - 期望职位：go全栈
  - 期望城市：成都，其他城市如果福利好，也可以考虑
  - 工作状态：离职，月内到岗
 
