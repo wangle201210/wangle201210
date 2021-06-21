@@ -1,5 +1,3 @@
-# 已入职，暂时不考虑换工作了～谢谢
-
 # 联系方式
 
 - 手机：18227593292
@@ -10,37 +8,26 @@
 
  - 王厚伟/男/25岁
  - 本科/四川农业大学（211）
- - 工作年限：3年+
+ - 工作年限：4年+
  - 技术博客：https://learnku.com/blog/Iwanna (以前自己的blog由于服务器原因已关闭)
  - Github：https://github.com/wangle201210
  - 期望职位：go全栈
  - 期望城市：成都，其他城市如果福利好，也可以考虑
- - 工作状态：离职，月内到岗
+ - 工作状态：在职，考虑机会
 
 # 个人优势
- - 掌握golang，熟悉[beego框架](https://github.com/astaxie/beego)，能使用go开发具体[项目](https://github.com/wangle201210/tools)，
- 参与维护开源项目[beego/bee]( https://github.com/beego/bee "beego/bee")
- 以及[beego官网]( http://go.beego.top "beego官网")开发(开发中)
- - 阅读过laravel框架，beego框架，bee工具部分底层代码（beego，bee均有被合并的pr）
- - 熟练使用php，Linux系统，MySQL，git协同开发
- - 会使用vue，已在多个项目上使用过vue-element框架
- - 了解WebSocket协议并写过[im系统](https://github.com/wangle201210/im)
- - 了解服务器配置，有自己服务器（linux）
- - 会使用docker
- - 掌握PS、AI等软件
+ - 熟练使用golang，负责公司部分核心微服务模块，
+ - 参与开源项目beego/bee、gogf/gf 等项目
+ - 熟练使用php，laravel，mysql，redis，kafka等
+ - 熟悉vuejs并且从0开始搭建过vue-element脚手架
  
 # 工作经历
 
 ## xx公司（2020年10月～今）  
-技术栈：gin + gorm + goFrame + kratos + discovery
-xx公司用户中心开发及维护  
-维持原有用户中心功能的基础上提供新到的用户中心底层接口
-将原有大部分php逻辑迁移到go中
-核心功能 
-> 登录（含第三方）、鉴权、注册、获取用户信息、接入第三方数据
-难点
-> 用户量大，总用户达千万级别
-> 调用方多，公司上百个仓库至少85%的仓库需要调用达用户中心相关接口
+技术栈：gin + gorm + goFrame(gf) + kratos + discovery  
+主要负责用户中心项目拆分、重构、迭代(php逻辑重构到golang)  
+参与完善公司微服务基础框架以及基础项目规范  
+对接其他用户系统  
 
 
 ## 成都汇集科技 （2018年6月 ~ 2020年9月）
