@@ -11,8 +11,7 @@
  - 工作年限：5年
  - 技术博客：https://learnku.com/blog/Iwanna
  - Github：https://github.com/wangle201210
- - 期望职位：go全栈
- - 期望城市：成都，其他城市如果福利好，也可以考虑
+ - 期望城市：成都
  - 工作状态：在职，考虑机会
 
 # 个人优势
